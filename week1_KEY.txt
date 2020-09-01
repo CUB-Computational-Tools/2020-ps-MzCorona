@@ -1,0 +1,62 @@
+Assignment Prompt
+Darcy's Law Q = -K*(h1 - h0 /L)*Area
+
+LEARNING GOALS
+
+After doing this exercise, you should be able to...
+...have a better understanding of what drives groundwater flow.
+...describe what each of the variables in Darcy's Law stands for.
+...calculate the discharge rate, q, with various hydraulic conductivities (K, L/T), Area (A, L^2), and hydraulic gradient (I, L/L). 
+
+BACKGROUND
+
+Given we are 67% water and can't go 48 hours without it, it can be said that we take for granted our access to clean, drinking water. During the 19th century, most people in Europe knew not to drink any public sources of water for fear of contracting death or disease. During this time, a French hydraulic engineer named Henry Darcy was was interested in determining how to provide a clean, dependable water supply to the city of Dijon. So he experimented with purifying water supplies using sand filters.
+
+Darcy conducted experiments to determine the flow rate of water through sand filters. He realized that the discharge rate (q) of water flowing through a tube filled with sand was a function of the cross-sectional area through which the water flowed (A), the hydraulic head gradient (I), and the hydraulic conductivity of the material (K). Now known as Darcy's law, his findings resulted in an equation that describes the flow of a fluid through a porous medium. 
+
+The equation states:
+
+q = - KIA
+
+where
+K = hydraulic conductivity, units: L/T
+I = hydraulic gradient, units: L/L
+A = cross-sectional area, units: L**2
+
+
+Example section that performs a calculation w/ the following programming concepts
+
+Variables
+
+Dictionaries (python): create and use at least one dictionary/list (e.g. for constants)
+
+Operators
+
+For example, let's say we are trying to calculate the discharge rate through a gravel-packed slope, with a hydraulic gradient of 5/10, a hydraulic conductivity of 50 meters/day and a cross-sectional area of 100**2. What would the discharge rate through this slope be in a day?
+
+Let's write it out:
+K = 50
+I = 5/10
+A = 100 
+
+Q = -KIA  
+Q = 2500 m**3, which is an equivalent discharge rate of 2 acre-feet of water! 
+
+
+QUESTIONS ANSWERS
+
+Q1: What does "q" stand for in Darcy's Law?
+q stands for discharge.
+
+Q2: What is "K"? How does it vary for sand layer vs. a clay layer? 
+K stands for hydraulic conductivity. Hydraulic conductivity is a physical property that measures the ability of a material (soil in our case) to transmit fluit through pore spaces and fractures given the presence of an applied hydraulic gradient. Sand materials have a greater hydraulic conductivity than clay.
+
+Q3: Using the constants defined, what is the discharge rate through a sand layer with a 100m**2 area and a hydraulic gradient of 1.0?
+
+The discharge rate is 1,000 m^2
+
+Q4: Now consider a clay layer. Using the same variables, how would the discharge rate change? Would it increase or decrease?
+
+er with a 100m**2 area and a hydraulic gradient of 1.0?
+
+The discharge rate is 10 m^2
