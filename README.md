@@ -101,13 +101,17 @@ Before you start designing your problem set for any given week, please complete 
 
 > Only keep the one link you want your peer reviewers to use. Note that these will only work once the `week5` branch exists.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-MzCorona/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-MzCorona%26branch%3Dweek5%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-MzCorona/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-MzCorona%26branch%3Dweek5%26urlpath%3Dlab'>
+    <img src='https://img.shields.io/badge/launch%20draft-R+Jupyter%20Lab-orange.svg'/></a>
+
 
 #### Binder link for final version
 
 > Instructions: Only keep the one link you want your instructor(s) to use. This uses the `master` branch so will only have your newest notebook once you have merged your pull request for the week.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-MzCorona/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-MzCorona%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-MzCorona/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-MzCorona%26branch%3Dmaster%26urlpath%3Dlab'>
+    <img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
+
 
 
 # Week 6
@@ -116,10 +120,13 @@ Before you start designing your problem set for any given week, please complete 
 
 > Only keep the one link you want your peer reviewers to use. Note that these will only work once the `week6` branch exists.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-MzCorona/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-MzCorona%26branch%3Dweek6%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-MzCorona/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-MzCorona%26branch%3Dweek6%26urlpath%3Dlab'>
+    <img src='https://img.shields.io/badge/launch%20draft-R+Jupyter%20Lab-orange.svg'/></a>
+
 
 #### Binder link for final version
 
 > Instructions: Only keep the one link you want your instructor(s) to use. This uses the `master` branch so will only have your newest notebook once you have merged your pull request for the week.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-MzCorona/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-MzCorona%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Dlab'>
+    <img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
